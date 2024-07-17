@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32933170677",
+    "project_id": "e-commerce-91870",
+    "storage_bucket": "e-commerce-91870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32933170677:android:bffb3ed6b23a35723a64bc",
+        "android_client_info": {
+          "package_name": "com.priyanka.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8C6xWlLxH26loGhjzktVDaZk7lT61sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
